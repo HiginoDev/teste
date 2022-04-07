@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title> Frango da Titi </title>
+<link rel="stylesheet" type="text/css" href="Frango da Titi.css">
+</head>
+
+<body>
+
+<p><b>Frango da Titi</b> </p>
+ <h2>"O melhor de Canoas"</h2>
+<img src='C:\Users\Meu Computador\Pictures\Frango da Titi.png' alt='Frango da Titi'>
+<br>
+
+<ul>
+<li><i><b>Frango Assado</li>
+<li>Frango Assado Recheado</li>
+<li>Maionese</li>
+<li>Polenta Frita</li>
+<li>Refrigerante</li>
+<li>Cerveja</i></b></li>
+</ul>
+
+ </body>
+</html>

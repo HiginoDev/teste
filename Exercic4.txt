@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>Exercício3 - Lista intercaladas</title>
+</head>
+
+<body>
+<p><font face="verdana" size="5" color="FF0099">Principais pontos turísticos:</font><p>
+<ul type="square"><font face="calibri" size="4">
+<li>Chave de fenda
+<li>Martelo
+<li>Marreta
+<li>Régua
+<li>Tábuas</font>
+</ul>
+</body>
+</html>
